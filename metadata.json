@@ -1,0 +1,5 @@
+{
+  "name": "CipherVault Pro",
+  "description": "An advanced, client-side encrypted vault for passwords, bank details, and payment cards featuring military-grade AES-GCM encryption.",
+  "requestFramePermissions": []
+}
